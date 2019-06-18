@@ -1,0 +1,16 @@
+.fieldset {
+    border-radius: 5px;
+    border: 1px solid darkblue;
+    background-color: pink;
+    margin: 20px;
+    p {
+        line-height: 30px;
+    }
+
+}
+
+legend {
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+}

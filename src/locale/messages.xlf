@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="mainHeader" datatype="html">
+        <source>Internationalisation for Spanish Speakers testing</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/heading/heading.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mainHeaderDefinition" datatype="html">
+        <source>Changes for Spanish speakers</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/heading/heading.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutHeading" datatype="html">
+        <source>ABOUT THIS LOREM IPSUM GENERATOR</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/body/body.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutBody" datatype="html">
+        <source>
+        Yes, there are a lot of Lorem Ipsum generators already. Even when we started with this one in 2009. But all
+        others
+        lack
+        features, or are too limited. Here&apos;s what Loripsum.net has to offer:
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/body/body.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customHeading" datatype="html">
+        <source>CUSTOMISATION</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/body/body.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="customBody" datatype="html">
+        <source>
+        Most generators only output some paragraphs of about the same length. Sometimes you need lists, headings, long
+        paragraphs, etc. The website/magazine that you&apos;re designing probably isn&apos;t going to be filled with happy uniform
+        paragraphs, so your placeholder text should reflect that.
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/body/body.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

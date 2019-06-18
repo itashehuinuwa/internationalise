@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <trans-unit id="mainHeader" datatype="html">
+                <source>Internationalisation for Spanish Speakers testing</source>
+                <target>Internacionalización para pruebas de hispanohablantes.</target>
+                <context-group purpose="location">
+                    <context context-type="sourcefile">app/heading/heading.component.html</context>
+                    <context context-type="linenumber">1</context>
+                </context-group>
+            </trans-unit>
+            <trans-unit id="mainHeaderDefinition" datatype="html">
+                <source>Changes for Spanish speakers</source>
+                <target>Cambios para hispanohablantes</target>
+                <context-group purpose="location">
+                    <context context-type="sourcefile">app/heading/heading.component.html</context>
+                    <context context-type="linenumber">2</context>
+                </context-group>
+            </trans-unit>
+            <trans-unit id="aboutHeading" datatype="html">
+                <source>ABOUT THIS LOREM IPSUM GENERATOR</source>
+                <target>SOBRE ESTE LOREM IPSUM GENERADOR</target>
+                <context-group purpose="location">
+                    <context context-type="sourcefile">app/body/body.component.html</context>
+                    <context context-type="linenumber">2</context>
+                </context-group>
+            </trans-unit>
+            <trans-unit id="aboutBody" datatype="html">
+                <source> Yes, there are a lot of Lorem Ipsum generators already. Even when we started with this one in 2009. But all others lack features, or are too limited. Here&apos;s what Loripsum.net has to offer:
+                </source>
+                <target>Sí, ya hay muchos generadores Lorem Ipsum. Incluso cuando empezamos con este en 2009. Pero todos los demás carecen de funciones o son demasiado limitados. Esto es lo que Loripsum.net tiene para ofrecer:</target>
+                <context-group purpose="location">
+                    <context context-type="sourcefile">app/body/body.component.html</context>
+                    <context context-type="linenumber">3</context>
+                </context-group>
+            </trans-unit>
+            <trans-unit id="customHeading" datatype="html">
+                <source>CUSTOMISATION</source>
+                <target>Personalizacion</target>
+                <context-group purpose="location">
+                    <context context-type="sourcefile">app/body/body.component.html</context>
+                    <context context-type="linenumber">12</context>
+                </context-group>
+            </trans-unit>
+            <trans-unit id="customBody" datatype="html">
+                <source>
+        Most generators only output some paragraphs of about the same length. Sometimes you need lists, headings, long
+        paragraphs, etc. The website/magazine that you&apos;re designing probably isn&apos;t going to be filled with happy uniform paragraphs, so your placeholder text should reflect that.
+                </source>
+                <target>La mayoría de los generadores solo emiten algunos párrafos de aproximadamente la misma longitud. A veces necesitas listas, encabezados, párrafos largos, etc. El sitio web / revista que está diseñando probablemente no se llenará con párrafos felices y uniformes, por lo que el texto de su marcador de posición debe reflejar eso.</target>
+                <context-group purpose="location">
+                    <context context-type="sourcefile">app/body/body.component.html</context>
+                    <context context-type="linenumber">13</context>
+                </context-group>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
